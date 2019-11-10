@@ -14,6 +14,6 @@ Procedure:
 8. By using the already trained model, the prediction is done.
 
 Result:
-We got the total run time of Mr Bean in the video.
+We got the total run time of Mr Bean in the test video.
 
 This work can be scalable.
